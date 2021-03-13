@@ -11,7 +11,7 @@ This is a project I started over spring break 2021. It is a planner app geared t
 - creating and deleting assingments, todos, and classes
 - basic mobile responsitivity (dashboard)
 
-I will be hosting it on Heroku soon for anyone to use
+I will be hosting it on Heroku soon for anyone to use. Feel free to use it if you like it but its kinda trash right now.
 
 # Some features I will be implementing in the future:
 
