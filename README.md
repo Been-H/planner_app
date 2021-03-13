@@ -12,6 +12,7 @@ This is a project I started over spring break 2021. It is a planner app geared t
 - basic mobile responsitivity (dashboard)
 
 I will be hosting it on Heroku soon for anyone to use. Feel free to use it if you like it but its kinda trash right now.
+(Link will be here once I figure out how to host it and host it.)
 
 # Some features I will be implementing in the future:
 
