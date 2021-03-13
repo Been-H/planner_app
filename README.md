@@ -6,7 +6,10 @@ This is a project I started over spring break 2021. It is a planner app geared t
 - User login, logout, and register
 - individual dashboards for each User
 - sql database
-- Models for classes, assignments, and todos
+- Models for classes, assignments, and reminders
+- Due dates for assignments with nice calendar picker functionality
+- creating and deleting assingments, todos, and classes
+- basic mobile responsitivity (dashboard)
 
 I will be hosting it on Heroku soon for anyone to use
 
