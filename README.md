@@ -1,9 +1,16 @@
 # planner_app
-This is a project I started over spring break 2021. It is a planner app geared towards students and is class/assignment oriented. I plan to continue working on this in the future.
+This is a project I started over spring break 2021. It is a planner app geared towards students and is class/assignment oriented. I plan to continue working on this in the future. It uses the Django web framework. 
+
+# Currentely it implements:
+
+- User login, logout, and register
+- individual dashboards for each User
+- sql database
+- Models for classes, assignments, and todos
 
 I will be hosting it on Heroku soon for anyone to use
 
-Here are some features I will be implementing in the future:
+# Some features I will be implementing in the future:
 
 -better mobile responsitivity for class view
 - ordering assingments in a class in order of important and urgency
