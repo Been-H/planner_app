@@ -15,7 +15,7 @@ I will be hosting it on Heroku soon for anyone to use. Feel free to use it if yo
 
 (Link will be here once I figure out how to host it and host it.)
 
-# Some features I will be implementing in the future:
+# Some features I might be implementing in the future:
 
 - ability to edit things like class/assingment/reminder names, descriptions, due dates, etc.
 - popups for creating classes, assingments, and reminders rather than different pages
